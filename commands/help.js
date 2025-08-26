@@ -67,6 +67,8 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .cleartmp
 ║ ➤ .setpp <reply to image>
 ║ ➤ .autoreact
+║ ➤ .autotyping <on/off>
+║ ➤ .autoread <on/off>
 ╚═══════════════════╝
 
 ╔═══════════════════╗
@@ -145,6 +147,38 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .tiktok <link>
 ║ ➤ .video <song name>
 ║ ➤ .ytmp4 <Link>
+╚═══════════════════╝
+
+╔═══════════════════╗
+🧩 *MISC*:
+║ ➤ .heart
+║ ➤ .horny
+║ ➤ .circle
+║ ➤ .lgbt
+║ ➤ .lolice
+║ ➤ .its-so-stupid
+║ ➤ .namecard 
+║ ➤ .oogway
+║ ➤ .tweet
+║ ➤ .ytcomment 
+║ ➤ .comrade 
+║ ➤ .gay 
+║ ➤ .glass 
+║ ➤ .jail 
+║ ➤ .passed 
+║ ➤ .triggered
+╚═══════════════════╝
+
+╔═══════════════════╗
+🖼️ *ANIME*:
+║ ➤ .nom 
+║ ➤ .poke 
+║ ➤ .cry 
+║ ➤ .kiss 
+║ ➤ .pat 
+║ ➤ .hug 
+║ ➤ .wink 
+║ ➤ .facepalm 
 ╚═══════════════════╝
 
 ╔═══════════════════╗
